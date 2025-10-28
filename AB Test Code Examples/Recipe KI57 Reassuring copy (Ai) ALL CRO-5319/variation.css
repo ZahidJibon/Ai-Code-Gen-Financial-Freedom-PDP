@@ -1,0 +1,66 @@
+html body.cro-t-jm-ki57 .cro-ki57-reassuring {
+    background: #4AAEAC;
+    padding-bottom: 79px;
+    padding-top: 79px;
+}
+
+html body.cro-t-jm-ki57 .cro-ki57-reassuring-text p {
+    margin: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+html body.cro-t-jm-ki57 .cro-ki57-reassuring-header h2 {
+    margin: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+html body.cro-t-jm-ki57 .cro-ki57-reassuring-inner {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 38px;
+}
+
+html body.cro-t-jm-ki57 #call-to-action-and-form .grid h2 {
+    font-size: 0;
+}
+
+html body.cro-twoPartForm-t-1.cro-t-47-newTemplate.cro-v_2-47.cro-t-jm-ki57 #call-to-action-and-form h2 {
+    font-size: 0;
+}
+
+html body.cro-t-jm-ki57 #call-to-action-and-form .grid h2:after {
+    content: "No matter your credit score, this is your first step toward financial freedom.";
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+html body.cro-twoPartForm-t-1.cro-t-47-newTemplate.cro-v_2-47 #call-to-action-and-form p.cro-v-2-creditRecord strong {
+    font-weight: 700;
+}
+
+@media (max-width: 1023px) {
+    html body.cro-t-jm-ki57 .cro-ki57-reassuring {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+
+    html body.cro-t-jm-ki57 #call-to-action-and-form .grid h2:after {
+        font-size: 24px;
+    }
+}
